@@ -1,0 +1,11 @@
+
+numpy 
+scikit-image
+matplotlib
+scikit-learn
+plotly
+dicompyler-core 
+six 
+shapely
+scipy 
+pydicom 
